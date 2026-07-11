@@ -27,9 +27,4 @@ If you are recruiters, hiring managers, or looking to collaborate, feel free to 
 ## 🛠️ Infrastructure Overview
 
 * **Data Integrity:** Fully managed utilizing **Relative Paths (`./`)** ensuring zero broken linkages in case of account migrations or repo renaming.
-* **Redundancy Matrix:** High-availability links via official GitHub servers with Google Drive edge mirrors as standard fallback alternatives.
-
-<div align="right">
-  <code><b>STATUS: RUNNING</b></code><br />
-  <code><b>VERIFIED_BY: crypt1cx01</b></code>
-</div>
+* **Redundancy Matrix:** High-availability links via official GitHub servers with Google Drive edge mirrors as standard fallback alternatives
